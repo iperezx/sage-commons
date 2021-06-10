@@ -15,7 +15,7 @@ class sageCommons:
         title = dataset['title']
         name = dataset['name']
         notes = dataset['notes']
-        tags = [{'name': x for x in dataset['tags']}]
+        tags = [{'name': x } for x in dataset['tags']]
 
         payload = {'owner_org': orgName,
                     'title': title,
@@ -33,7 +33,11 @@ class sageCommons:
             print(f'Other error occurred: {err}')
 
         responseJSON = response.json()
-        datasetID = responseJSON['result']['id']
+        result = responseJSON.get('result',None)
+        datasetID = None
+
+        if result is not None:
+            datasetID = responseJSON['result']['id']
         
         return datasetID,response
     
@@ -70,6 +74,9 @@ class sageCommons:
             datasetID,response = self.uploadDataset(org,iDataset)
             if response.status_code != 200:
                 print('Dataset upload not succesful.')
+                print('Dataset: ' + str(iDataset['name']))
+                print('Response code: ' + str(response.status_code))
+                print('Response text: ' + str(response.text))
                 break
             
             resources = dataJSON[i]['resource']
@@ -80,4 +87,8 @@ class sageCommons:
                 response = self.uploadResource(datasetID,iResource)
                 if response.status_code != 200:
                     print('Dataset upload not succesful.')
+                    print('Dataset: ' + str(iDataset['name']))
+                    print('Resource: ' + str(iResource['name']))
+                    print('Response code: ' + str(response.status_code))
+                    print('Response text: ' + str(response.text))
                     continue
