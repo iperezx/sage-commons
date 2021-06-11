@@ -64,9 +64,7 @@ class sageCommons:
 
         return response
 
-    def uploadDataForEntity(self,org,dataJSONFile):
-        dataJSON = json.load(open(dataJSONFile))
-
+    def uploadDataForEntity(self,org,dataJSON):
         numDatasets = len(dataJSON)
         
         for i in range(numDatasets):
