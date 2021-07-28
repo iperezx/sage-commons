@@ -1,0 +1,92 @@
+[
+    {
+        "name": "xnf-8010rv",
+        "title": "X series 6 MP sensor 360˚ Outdoor Fisheye: xnf-8010rv",
+        "url": "https://www.hanwhasecurity.com/xnf-8010rv.html",
+        "notes": "Wisenet X powered by Wisenet 5 network outdoor vandal fisheye, 6 MP CMOS sensor, 2048x2048 @ 30fps with WDR off/on(120dB), 1.6mm fixed lens (192°), H.265/H.264/MJPEG, WiseStream II compression technology, USB port for easy installation, advanced video/audio and business analytics, simple focus, dual SD card slots, HLC, Defog detection, DIS , 12VDC/PoE, IP66, IK10\r\n\r\nKey features:\r\n\r\n* 2048 x 2048 resolution, 30fps\r\n* Fisheye lens 1.6mm (192°X192°) W/ simple focus\r\n* Built-in IR for up to 49’ or 15m\r\n* Triple Codec: H.265, H.264 and MJPEG multiple streaming\r\n* WiseStream II compression technology\r\n* WDR 120dB @30fps\r\n* Loitering, directional detection, fog detection, tampering, Motion detection, object enter or exit an area\r\n* Sound Classification, heatmap, people counting and queue line management\r\n* Dual SD cards slots\r\n* Power: PoE or 12VDC\r\n* IP66 / IK10\r\n",
+        "tags" : ["sensor"],
+        "resource" : [
+            {
+                "name": "Datasheet",
+                "format": "PDF",
+                "url": "https://www.hanwhasecurity.com/media/attachment/file/d/a/datasheet_xnf-8010r_xnf-8010rv_xnf-8010rvm_180918.pdf",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "xnv-8080r",
+        "title": "5MP Vandal IR Dome Camera: xnv-8080r",
+        "url": "https://www.hanwhasecurity.com/xnv-8080r.html",
+        "notes": "Wisenet X powered by Wisenet 5 network IR outdoor vandal dome camera, 5MP @30fps WDR off/on, Motorized Vari-Focal Lens 2.4x (3.9~9.4mm) (92.1°~38.7°), H.265/H.264/MJPEG, WiseStream II compression technology, 120dB WDR, USB port for easy installation, Advanced video analytics and sound classification, High powered IR LEDs range of 164', True D/N, Dual SD card, Hallway view, HLC, Defog detection with simple focus, DIS , 12VDC/24VAC/PoE, IP67, IK10, NEMA 4X, Built-in -40°F Heater\r\n\r\nKey features:\r\n\r\n* 5 megapixel (2560 x 1920) resolution\r\n* 3.9 ~ 9.4mm (2.4x) motorized varifocal lens\r\n* 30fps@all resolutions (H.265/H.264)\r\n* H.265, H.264, MJPEG codec supported, multiple streaming\r\n* Day & Night (ICR), WDR (120dB), Defog\r\n* Loitering, directional detection, fog detection, audio detection, digital auto tracking, sound classification, tampering\r\n* Motion detection, Handover\r\n* SD/SDHC/SDXC memory slot (Max. 512GB)\r\n* Hallway view, WiseStream II support\r\n* IR viewable length 50m, IP67/IP66, NEMA 4X, IK10\r\n* LDC support (Lens Distortion Correction)\r\n* PoE / 24V AC, 12V DC, Bi-directional audio support",
+        "tags" : ["sensor"],
+        "resource" : [
+            {
+                "name": "Datasheet",
+                "format": "PDF",
+                "url": "https://www.hanwhasecurity.com/media/attachment/file/x/n/xnv-8080r_specifications.pdf",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "xnv-8082r",
+        "title": "6MP Vandal-Resistant IR Outdoor Network Dome Camera: xnv-8082r",
+        "url": "https://www.hanwhasecurity.com/xnv-8082r.html",
+        "notes": "The Wisenet X series powered by Wisenet 7 network outdoor vandal dome camera features a modular structure, 6MP @ 30fps, motorized vari-focal lens 3x (2.8~8.4mm) (114°~40.2°). 131 foot IR viewable range for low light/no light monitoring. Triple codec H.265/H.264/MJPEG with WiseStream II technology reduces bandwidth and storage requirements. Additional features include extremeWDR, USB port for easy installation, advanced video analytics, sound classification and business analytics, shock detection, audio playback, true D/N, dual SD card, hallway view, HLC, fog detection, DIS (Gyro), 12VDC/PoE, optional 24VAC, IP67/IP66/IP6K9K, IK10+, NEMA 4X, -50°C ~ +60°C (-58°F ~ +140°F), white color, optional black skin cover. The modular design allows for easy installation of the camera case separately from the camera module. In addition, the camera module box includes a cutout for easy configuration without disassembling the camera/case. Advanced cybersecurity built-in.\r\n\r\nKey features:\r\n\r\n* 6MP (3328x1872) resolution\r\n* 3x (2.8~8.4mm) motorized varifocal lens\r\n* 131 foot IR viewable range for low light/no light monitoring\r\n* 30fps@all resolutions (H.265/H.264)\r\n* H.265, H.264, MJPEG codec supported, multiple streaming\r\n* Day & Night (ICR), extremeWDR, Defog\r\n* Shock detection, Loitering, Directional detection, Face/Upper Body detection, Fog detection, Audio detection, Digital auto tracking, Sound classification, Tampering\r\n* Motion detection, Handover, Audio event playback\r\n* Dual SD/SDHC/SDXC memory slots (Total Maximum 512GB)\r\n* Hallway view, WiseStream II support, IP67/IP66/IP6K9K, IK10+, NEMA 4X\r\n* LDC support (Lens Distortion Correction)\r\n* PoE / 12V DC, Optional 24V AC, Bi-directional audio support\r\n* 2 configurable I/O ports\r\n* White camera body\r\n* Weathercap included",
+        "tags" : ["sensor"],
+        "resource" : [
+            {
+                "name": "Datasheet",
+                "format": "PDF",
+                "url": "https://www.hanwhasecurity.com/media/attachment/file/d/a/datasheet_xnv-8082r_201020_en.pdf",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "xnv-8081z",
+        "title": "5MP Vandal-Resistant Outdoor Network Dome PTRZ Camera: xnv-8081z",
+        "url": "https://www.hanwhasecurity.com/xnv-8081z.html",
+        "notes": "The Wisenet X series PLUS powered by Wisenet 5 network outdoor vandal dome camera features a modular structure, 5MP @ 30fps, motorized vari-focal lens 2.6x (3.6~9.4mm) (102.5°~38.7°), and PTRZ capability for easy installation. Triple codec H.265/H.264/MJPEG with WiseStream II technology reduces bandwidth and storage requirements. Additional features include 120dB WDR, USB port for easy installation, advanced video analytics, sound classification and business analytics, shock detection, audio playback, true D/N, dual SD card, hallway view, HLC, fog detection, DIS (Gyro), 12VDC/PoE, optional 24VAC, IP67/IP66/IP6K9K, IK10+, NEMA 4X, -50°C ~ +60°C (-58°F ~ +140°F), white color, ivory skin included, optional black skin cover. The modular design allows for easy installation of the camera case separately from the camera module. In addition, the camera module box includes a cutout for easy configuration without disassembling the camera/case.\r\n\r\nKey features: \r\n\r\n* 5 megapixel resolution\r\n* 2.6x (3.6~9.4mm) motorized varifocal lens with PTRZ\r\n* 30fps@all resolutions (H.265/H.264)\r\n* H.265, H.264, MJPEG codec supported, multiple streaming\r\n* Day & Night (ICR), WDR (120dB), Defog\r\n* Shock detection, Loitering, Directional detection, Fog detection, Audio detection, Digital auto tracking, Sound classification, Tampering\r\n* Motion detection, Handover, Audio event playback\r\n* Dual SD/SDHC/SDXC memory slots (Max. 512GB)\r\n* Hallway view, WiseStream II support, IP67/IP66/IP6K9K, IK10+, NEMA 4X\r\n* LDC support (Lens Distortion Correction)\r\n* PoE / 12V DC, Bi-directional audio support\r\n* White camera with ivory skin included\r\n* Weathercap included",
+        "tags" : ["sensor"],
+        "resource" : [
+            {
+                "name": "Datasheet",
+                "format": "PDF",
+                "url": "https://www.hanwhasecurity.com/media/attachment/file/d/a/datasheet_xnv-6081z_xnv-8081z_190218.pdf",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "rg-15",
+        "title": "Rainfall Sensor: rg-15",
+        "url": "https://rainsensors.com/products/rg-15/",
+        "notes": "The Hydreon RG-15 Solid State Tipping Bucket is a rainfall measuring device intended to replace conventional tipping buckets. The RG-15 is rugged, reliable, maintenance-free and features a nominal accuracy of within 10%. The RG-15 is designed to replace tipping bucket rain gauges in many applications where their maintenance requirements make them impractical.\r\n\r\nThe RG-15 uses beams of infrared light within a plastic lens about the size of a tennis ball. The round surface of the lens discourages collection of debris, and the RG-15 has no moving parts to stick, and no water-pathways to clog. The device features an open-collector output that emulates a conventional tipping bucket, as well as serial communications that provide more detailed data and allow for configuration of the device.\r\n\r\nThe RG-15 may be configured through the serial port, or optionally via DIP switches. Power consumption of the RG-15 is very low, and the device is well-suited to solar-power applications.\r\nDip Switches can control the units (inches or millimeters) and resolution (0.01″/0.2mm or 0.001″/0.02mm) of the device. Commands can also be sent via the RS232 serial port to override them.",
+        "tags" : ["sensor"],
+        "resource" : [
+            {
+                "name": "Datasheet",
+                "format": "PDF",
+                "url": "https://rainsensors.com/wp-content/uploads/sites/3/2020/07/rg-15_instructions_sw_1.000.pdf",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "bme680",
+        "title": "High-accuracy gas, pressure, humidity and temperature sensors: bme680",
+        "url": "https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/",
+        "notes": "The BME680 is the first gas sensor that integrates high-linearity and high-accuracy gas, pressure, humidity and temperature sensors. It is especially developed for mobile applications and wearables where size and low power consumption are critical requirements. The BME680 guarantees - depending on the specific operating mode - optimized consumption, long-term stability and high EMC robustness. In order to measure air quality for personal wellbeing the gas sensor within the BME680 can detect a broad range of gases such as volatile organic compounds (VOC).\r\n\r\nPossible use cases: \r\n\r\n* Personal air quality tracker\r\n* Air quality mapping\r\n* Air quality inside cars & public transport\r\n* Enhanced context awareness\r\n* Accurate step & calorie tracker\r\n* Quick GPS-fix & improved navigation\r\n* Indicator of too high / low humidity\r\n* Air quality & well-being indicator\r\n* Sleep / recovery tracker\r\n* Weather trend\r\n* Stair counter\r\n* Floor level detection\r\n",
+        "tags" : ["sensor"],
+        "resource" : [
+            {
+                "name": "Datasheet",
+                "format": "PDF",
+                "url": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme680-ds001.pdf",
+                "description": ""
+            }
+        ]
+    }
+]
